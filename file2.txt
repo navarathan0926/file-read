@@ -1,0 +1,6 @@
+good morning
+good afternoon
+good evening
+good night
+
+how old are you?
